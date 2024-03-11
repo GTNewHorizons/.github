@@ -15,7 +15,8 @@
       <a href="http://downloads.gtnewhorizons.com/ServerPacks/">Server downloads</a><br>
       <a href="https://wiki.gtnewhorizons.com/wiki/Main_Page">Wiki</a><br>
       <a href="https://docs.google.com/spreadsheets/d/1Rsz0rH9tIVJxr18b1Z6-QxOSaEKssxF7u2naQTq2Mqg">Official spreadsheet</a><br>
-      <a href="https://docs.google.com/spreadsheets/d/1LHd8c4FLLHiJqsuTppF2XFTE6bh-mXE7afVwGbzOKms">Mod support spreadsheet</a>
+      <a href="https://docs.google.com/spreadsheets/d/1LHd8c4FLLHiJqsuTppF2XFTE6bh-mXE7afVwGbzOKms">Mod support spreadsheet</a><br>
+      <a href="https://github.com/GTNewHorizons/GTNH-Translations">Translation project</a>
     </td>
     <td valign="top">
       <a href="https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/issues/new/choose">Open a new issue</a><br>
