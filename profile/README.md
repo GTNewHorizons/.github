@@ -2,7 +2,7 @@
     <img width="20%" max-height="20%" src="https://www.gtnewhorizons.com/images/big_gnd.webp">
 </p>
 
-<h2 align="center">Welcome to the GregTech: New Horizons Github's organisation!</h2>
+<h2 align="center">Welcome to the GregTech: New Horizons Github organisation!</h2>
 
 
 <table align=center>
