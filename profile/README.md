@@ -1,6 +1,11 @@
-**Welcome to the GT New Horizons GitHub!**
+<p align="center">
+    <img width="20%" max-height="20%" src="https://www.gtnewhorizons.com/images/big_gnd.webp">
+</p>
 
-<table>
+<h2 align="center">Welcome to the GregTech: New Horizons Github's organisation!</h2>
+
+
+<table align=center>
   <tr>
     <td><i>General links</i></td>
     <td><i>Quick-links</i></td>
