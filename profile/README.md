@@ -4,7 +4,6 @@
 
 <h2 align="center">Welcome to the GregTech: New Horizons Github organisation!</h2>
 
-
 <table align="center">
     <tr>
       <td><i>General links</i></td>
@@ -30,7 +29,7 @@
         <a href="https://github.com/GTNewHorizons/DreamAssemblerXXL/actions/workflows/nightly-modpack-build.yml">🌖 Nightlies</a><br>
         <a href="https://github.com/GTNewHorizons/ExampleMod1.7.10/releases/latest">📦 ExampleMod starter/migration package</a><br>
         <a href="https://nexus.gtnewhorizons.com/service/rest/repository/browse/public/">🪶 Maven</a><br>
-        <a href="https://github.com/GTNewHorizons/GTNH-Dev-Doc/tree/master/vision%20of%20the%20modpack/breakdown">💡 Vision of the pack</a>
+        <a href="https://github.com/GTNewHorizons/GTNH-Dev-Doc/blob/master/developer's%20code%20of%20conduct.md">📜 Developer's Code of Conduct</a><br>
       </td>
     </tr>
 </table>
