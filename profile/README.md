@@ -27,7 +27,8 @@
       <a href="https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/issues/new/choose">🐞 Open a new issue</a><br>
       <a href="https://github.com/pulls?q=is%3Aopen+is%3Apr+org%3AGTNewHorizons+archived%3Afalse+draft%3Afalse">🛠️ View all open pull requests</a><br>
       <a href="https://wiki.gtnewhorizons.com/wiki/Development">📕 Development wiki page</a><br>
-      <a href="https://github.com/GTNewHorizons/DreamAssemblerXXL/actions/workflows/nightly-modpack-build.yml">🌖 Nightlies</a><br>
+      <a href="https://github.com/GTNewHorizons/DreamAssemblerXXL/actions/workflows/daily-modpack-build.yml">☀️ Daily builds</a><br>
+      <a href="https://github.com/GTNewHorizons/DreamAssemblerXXL/actions/workflows/experimental-modpack-build.yml">🧪 Experimental builds</a><br>
       <a href="https://github.com/GTNewHorizons/ExampleMod1.7.10/releases/latest">📦 ExampleMod starter/migration package</a><br>
       <a href="https://nexus.gtnewhorizons.com/service/rest/repository/browse/public/">🪶 Maven</a><br>
       <a href="https://github.com/GTNewHorizons/GTNH-Dev-Doc/blob/master/developer's%20code%20of%20conduct.md">📜 Developer's Code of Conduct</a><br>
