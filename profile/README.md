@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="20%" max-height="20%" src="https://www.gtnewhorizons.com/images/big_gnd.webp">
+    <img width="20%" max-height="20%" src="https://www.gtnewhorizons.com/github/big_gnd.webp">
 </p>
 
 <h2 align="center">Welcome to the GregTech: New Horizons Github organisation!</h2>
