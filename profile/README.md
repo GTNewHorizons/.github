@@ -16,8 +16,8 @@
       <a href="https://discord.gg/EXshrPV">📬 Discord</a><br>
       <a href="https://www.technicpack.net/modpack/mcnewhorizons.677387">🔧 Technic page</a><br>
       <a href="https://www.curseforge.com/minecraft/modpacks/gt-new-horizons">🔥 CurseForge page</a><br>
-      <a href="http://downloads.gtnewhorizons.com/Multi_mc_downloads/">🧊 Downloads for MultiMC/PolyMC/Prism</a><br>
-      <a href="http://downloads.gtnewhorizons.com/ServerPacks/">🖥️ Server downloads</a><br>
+      <a href="https://www.gtnewhorizons.com/downloads/">🧊 Downloads for MultiMC/PolyMC/Prism</a><br>
+      <a href="https://www.gtnewhorizons.com/downloads/">🖥️ Server downloads</a><br>
       <a href="https://wiki.gtnewhorizons.com/wiki/Main_Page">📙 Wiki</a><br>
       <a href="https://www.gtnewhorizons.com/spreadsheet">📈 Official spreadsheet</a><br>
       <a href="https://docs.google.com/spreadsheets/d/1LHd8c4FLLHiJqsuTppF2XFTE6bh-mXE7afVwGbzOKms">📊 Mod support spreadsheet</a><br>
