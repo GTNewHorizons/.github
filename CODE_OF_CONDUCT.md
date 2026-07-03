@@ -1,8 +1,8 @@
 # GTNH Code of Conduct
 
-## Scope
-
 This Code of Conduct applies to anyone representing or contributing to the GTNH project, including on GitHub, Discord, and any other GTNH-related space.
+
+---
 
 ## Expected Behavior
 
@@ -21,6 +21,8 @@ This includes, but is not limited to:
 
 Behind every pull request, issue, or review comment is a person who has invested time and effort into the project. A single rude or dismissive comment can discourage someone from contributing again. Today’s new contributor may become tomorrow’s project lead.
 
+---
+
 ## Unacceptable Behavior
 
 The following behavior is not acceptable:
@@ -33,6 +35,8 @@ The following behavior is not acceptable:
 - Representing GTNH in a way that damages the project or discourages contribution.
 
 Disagreement is allowed. Strong technical opinions are allowed. Personal attacks are not.
+
+---
 
 ## Review Conduct
 
@@ -48,11 +52,15 @@ Good review behavior includes:
 
 If a pull request is unclear, incomplete, or incorrect, say so respectfully and explain what is needed.
 
+---
+
 ## Criticism and Project Direction
 
 Contributors should be open to criticism. Sometimes a change you worked hard on may not be accepted in its current form. That is part of the development process.
 
 Likewise, reviewers and maintainers should give criticism in a way that helps the contributor understand the concern and improve the work.
+
+---
 
 ## Enforcement
 
