@@ -33,7 +33,7 @@
       <a href="https://github.com/GTNewHorizons/ExampleMod1.7.10/releases/latest">📦 ExampleMod starter/migration package</a><br>
       <a href="https://nexus.gtnewhorizons.com/service/rest/repository/browse/public/">🪶 Maven</a><br>
       <a href="https://github.com/GTNewHorizons/.github/blob/master/CODE_OF_CONDUCT.md">📜 Developer's Code of Conduct</a><br>
-      <a href="https://github.com/GTNewHorizons/.github/blob/master/CODE_OF_CONDUCT.md">📖 Contribution Guidelines</a><br>
+      <a href="https://github.com/GTNewHorizons/.github/blob/master/CONTRIBUTING.md">📖 Contribution Guidelines</a><br>
     </td>
   </tr>
 </table>
