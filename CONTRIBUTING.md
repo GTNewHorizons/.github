@@ -27,7 +27,7 @@ Before contributing, please read and follow the project [Code of Conduct](https:
 
 - Respect the GTNH vision.
 - If an idea is not covered by the vision document:
-  - Discuss it in `#meta-dev`.
+  - Discuss it with developers in `mod-dev`, `#meta-dev`, or `github-discussion`.
   - If there is agreement, the vision document can be updated.
   - Then implementation can proceed.
 
@@ -39,7 +39,7 @@ Before contributing, please read and follow the project [Code of Conduct](https:
 - The game is already dense, especially with chemical lines.
 - Bug fixes and quality-of-life changes are always appreciated.
 - If you have a strong reason to add new content below IV:
-  - Discuss it in `#meta-dev` first.
+  - Discuss it with developers in `mod-dev`, `#meta-dev`, or `github-discussion` first.
   - Wait for general consensus before starting serious work.
   - Do not spend major development time on something likely to be rejected.
 
