@@ -119,7 +119,7 @@ Balance-affecting PRs must follow the GTNH vision.
 ### Approval Requirement
 
 - At least two approvals are required.
-- One approval must be from a member of the admin team.
+- One approval must be from a member of the Balance Review GitHub team.
 
 ---
 
