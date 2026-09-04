@@ -25,6 +25,7 @@
     </td>
     <td valign="top">
       <a href="https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/issues/new/choose">🐞 Open a new issue</a><br>
+      <a href="https://github.com/GTNewHorizons/Mobile-Issues-Tracker/issues/new/choose">📱 Open a new issue (mobile edition)</a><br>
       <a href="https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/issues">🧹 View all open issues</a><br>
       <a href="https://github.com/pulls?q=is%3Aopen+is%3Apr+org%3AGTNewHorizons+archived%3Afalse+draft%3Afalse">🛠️ View all open pull requests</a><br>
       <a href="https://wiki.gtnewhorizons.com/wiki/Development">📕 Development wiki page</a><br>
