@@ -1,5 +1,7 @@
 # GTNH Code of Conduct
 
+🌐 **Languages:** [English](CODE_OF_CONDUCT.md) | [Українська](CODE_OF_CONDUCT_uk.md)
+
 This Code of Conduct applies to anyone representing or contributing to the GTNH project, including on GitHub, Discord, and any other GTNH-related space.
 
 ---

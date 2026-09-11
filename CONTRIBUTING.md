@@ -1,5 +1,7 @@
 # GTNH Contribution Guidelines
 
+🌐 **Languages:** [English](CONTRIBUTING.md) | [Українська](CONTRIBUTING_uk.md)
+
 These guidelines explain how to contribute to GTNH, what is expected in pull requests, and how content, balance, and reviews should be handled.
 
 Before contributing, please read and follow the project [Code of Conduct](https://github.com/GTNewHorizons/.github/blob/main/CODE_OF_CONDUCT.md) and [AI Usage Policy](https://github.com/GTNewHorizons/GTNH-Dev-Doc/blob/master/AI_POLICY.md). The AI policy applies to code, written content, issues, discussions, pull requests, and media.
