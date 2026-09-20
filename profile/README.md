@@ -5,7 +5,7 @@
 <h2 align="center">Welcome to the GregTech: New Horizons Github organisation!</h2>
 
 <p align="center">
-    🌐 <b>Languages:</b> <a href="README.md">English</a> | <a href="README_uk.md">Українська</a>
+    🌐 <b>Languages:</b> <a href="README.md">English</a> | <a href="README_uk.md">Українська</a> | <a href="README_ru.md">Русский</a>
 </p>
 
 <table align="center">
