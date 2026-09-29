@@ -146,6 +146,14 @@ Notes:
 
 ## 4. Content and Design Standards
 
+### GuideNH Guide Pages
+
+- Use the [GuideNH online editor](https://www.gtnewhorizons.com/GuideNH) to edit and preview guide pages before submitting a PR.
+- You can import a guide folder or ZIP archive into the editor and export the edited files.
+- Check links, images, and interactive scenes, and identify the affected pages and languages in the PR description.
+
+---
+
 ### General Content Expectations
 
 When adding or changing pack content:
