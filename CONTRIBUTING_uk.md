@@ -1,6 +1,6 @@
 # Правила участі в проєкті GTNH
 
-🌐 **Мови:** [English](CONTRIBUTING.md) | [Українська](CONTRIBUTING_uk.md) | [Русский](CONTRIBUTING_ru.md)
+🌐 **Мови:** [English](CONTRIBUTING.md) | [Українська](CONTRIBUTING_uk.md) | [Русский](CONTRIBUTING_ru.md) | [简体中文](CONTRIBUTING_zh_cn.md)
 
 Ці настанови пояснюють, як робити внесок у GTNH, що очікується в запитах на злиття, і як слід поводитися з контентом, балансом та рецензуванням.
 

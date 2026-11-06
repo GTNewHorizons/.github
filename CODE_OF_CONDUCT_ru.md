@@ -1,6 +1,6 @@
 # Кодекс поведения GTNH
 
-🌐 **Языки:** [English](CODE_OF_CONDUCT.md) | [Українська](CODE_OF_CONDUCT_uk.md) | [Русский](CODE_OF_CONDUCT_ru.md)
+🌐 **Языки:** [English](CODE_OF_CONDUCT.md) | [Українська](CODE_OF_CONDUCT_uk.md) | [Русский](CODE_OF_CONDUCT_ru.md) | [简体中文](CODE_OF_CONDUCT_zh_cn.md)
 
 Этот Кодекс поведения распространяется на всех, кто представляет проект GTNH или вносит в него вклад, в том числе на GitHub, в Discord и в любом другом пространстве, связанном с GTNH.
 

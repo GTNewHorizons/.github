@@ -1,6 +1,6 @@
 # GTNH Contribution Guidelines
 
-🌐 **Languages:** [English](CONTRIBUTING.md) | [Українська](CONTRIBUTING_uk.md) | [Русский](CONTRIBUTING_ru.md)
+🌐 **Languages:** [English](CONTRIBUTING.md) | [Українська](CONTRIBUTING_uk.md) | [Русский](CONTRIBUTING_ru.md) | [简体中文](CONTRIBUTING_zh_cn.md)
 
 These guidelines explain how to contribute to GTNH, what is expected in pull requests, and how content, balance, and reviews should be handled.
 
